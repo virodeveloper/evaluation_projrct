@@ -1,0 +1,4 @@
+#Sun Mar 06 17:59:31 MYT 2022
+base.0=/Users/viro/evaluation_projrct/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
